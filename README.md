@@ -1,1 +1,1 @@
-a simple calculatrice which use suffixe ( k , m , b , t , q )
+a simple calculatrice which use suffixes ( k , m , b , t , q )
