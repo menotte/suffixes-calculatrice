@@ -30,7 +30,7 @@ while True:
     operation = input("Operation : ")
 
     # Verif if user want to leave
-    if operation.lower() == 'q':
+    if operation.lower() == 'exit':
         print("Bye")
         break
 
