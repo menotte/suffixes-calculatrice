@@ -7,7 +7,7 @@ def parse_number(num_str):
             number = float(num_str[:-1])
             return number * value
 
-    # If no suffixe
+    # If no suffix
     return float(num_str)
 
 
